@@ -1,2 +1,4 @@
 # thermal_ageing
-Code for analyses and plots to MS on ageing and reproductive thermal tolerance
+
+Supplementary code.R contains the code to run all models presented in the manuscript: "Ageing shifts reproductive thermal optimum to warmer temperatures in ostriches".    
+It also contains the code used to estimate the various evolutionary parameters presented in the manuscript, such as heritability and genetic correlations.  
